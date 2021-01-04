@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PhotoBook/static/css/main.32e60acd.chunk.css",
-    "main.js": "/PhotoBook/static/js/main.62fc6f68.chunk.js",
-    "main.js.map": "/PhotoBook/static/js/main.62fc6f68.chunk.js.map",
-    "runtime-main.js": "/PhotoBook/static/js/runtime-main.a845b693.js",
-    "runtime-main.js.map": "/PhotoBook/static/js/runtime-main.a845b693.js.map",
-    "static/js/2.b78f056c.chunk.js": "/PhotoBook/static/js/2.b78f056c.chunk.js",
-    "static/js/2.b78f056c.chunk.js.map": "/PhotoBook/static/js/2.b78f056c.chunk.js.map",
-    "index.html": "/PhotoBook/index.html",
-    "static/css/main.32e60acd.chunk.css.map": "/PhotoBook/static/css/main.32e60acd.chunk.css.map",
-    "static/js/2.b78f056c.chunk.js.LICENSE.txt": "/PhotoBook/static/js/2.b78f056c.chunk.js.LICENSE.txt"
+    "main.css": "/photobook/static/css/main.32e60acd.chunk.css",
+    "main.js": "/photobook/static/js/main.62fc6f68.chunk.js",
+    "main.js.map": "/photobook/static/js/main.62fc6f68.chunk.js.map",
+    "runtime-main.js": "/photobook/static/js/runtime-main.203986d1.js",
+    "runtime-main.js.map": "/photobook/static/js/runtime-main.203986d1.js.map",
+    "static/js/2.b1109b9d.chunk.js": "/photobook/static/js/2.b1109b9d.chunk.js",
+    "static/js/2.b1109b9d.chunk.js.map": "/photobook/static/js/2.b1109b9d.chunk.js.map",
+    "index.html": "/photobook/index.html",
+    "static/css/main.32e60acd.chunk.css.map": "/photobook/static/css/main.32e60acd.chunk.css.map",
+    "static/js/2.b1109b9d.chunk.js.LICENSE.txt": "/photobook/static/js/2.b1109b9d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a845b693.js",
-    "static/js/2.b78f056c.chunk.js",
+    "static/js/runtime-main.203986d1.js",
+    "static/js/2.b1109b9d.chunk.js",
     "static/css/main.32e60acd.chunk.css",
     "static/js/main.62fc6f68.chunk.js"
   ]
