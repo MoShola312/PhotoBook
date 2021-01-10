@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
     
-
 class AddPhoto extends Component {
 
     constructor() {
